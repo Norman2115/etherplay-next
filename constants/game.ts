@@ -7,7 +7,7 @@ export const games = [
       vertical_image: "/images/GodofWar.jpg",
       price: "$249",
       description:
-        "God of War is a mythology-based action-adventure video game franchise. Created by David Jaffe at Sony's Santa Monica Studio.",
+        "God of War 4 (2018) follows Kratos, now living in a world inspired by Norse mythology, as he embarks on a journey with his son, Atreus, to fulfill his late wife's final wish. The game blends intense combat with a deeply emotional narrative, focusing on their evolving father-son relationship while battling gods and monsters.",
     },
     {
       id: "2",
@@ -17,7 +17,7 @@ export const games = [
       vertical_image: "/images/black-myth-wukong-vertical.jpg",
       price: "$219",
       description:
-        "Black Myth: Wukong is an upcoming action-adventure video game developed by Chinese indie developer Game Science.",
+        "Wukong is an action RPG set in a world inspired by the Chinese classic Journey to the West, where players control the legendary Monkey King as he battles mythological creatures. The game features stunning visuals, fluid combat mechanics, and a rich narrative, blending folklore with fast-paced gameplay and immersive exploration.",
     },
     {
       id: "3",
@@ -28,7 +28,7 @@ export const games = [
       banner: "/images/GodofWar.jpg",
       price: "$199",
       description:
-        "Elden Ring is an upcoming action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment.",
+        "Elden Ring is an open-world action RPG created by FromSoftware and George R.R. Martin, set in the vast Lands Between, where players must gather fragments of the Elden Ring to become the Elden Lord. The game offers deep lore, challenging combat, and exploration through a dark, fantastical world filled with secrets, powerful enemies, and sprawling landscapes.",
     },
     {
       id: "4",
@@ -38,7 +38,7 @@ export const games = [
       vertical_image: "/images/cyberpunk-vertical.jpg",
       banner: "/images/GodofWar.jpg",
       price: "$219",
-      description: "Cyberpunk 2077 is an action role-playing video game developed and published by CD Projekt.",
+      description: "Cyberpunk 2077 is a futuristic open-world RPG set in the dystopian Night City, where players assume the role of V, a mercenary navigating a world of high-tech cybernetics, crime, and corporate warfare. The game features a rich narrative with branching choices, immersive world-building, and fast-paced combat, blending RPG elements with first-person action.",
     },
     {
       id: "5",
@@ -47,7 +47,7 @@ export const games = [
       image: "/images/Sekiro.jpg",
       vertical_image: "/images/sekiro-vertical.jpg",
       price: "$142",
-      description: "Sekiro: Shadows Die Twice is an action-adventure game played from a third-person view.",
+      description: "Shadows Die Twice is an action-adventure game set in a reimagined late 1500s Japan, where players control a shinobi named Wolf on a quest to rescue his kidnapped lord and seek revenge. The game features intense sword combat, stealth, and a unique resurrection mechanic, offering brutal challenges with a focus on precise timing and strategy.",
     },
     {
       id: "6",
@@ -56,7 +56,7 @@ export const games = [
       image: "/images/LethalCompany.jpg",
       vertical_image: "/images/lethal-company-vertical.jpg",
       price: "$26",
-      description: "Lethal Company is a first-person shooter video game developed by A4 Games.",
+      description: "Lethal Company is a multiplayer horror game where players must explore haunted industrial sites while scavenging for valuable items, all while avoiding terrifying creatures that lurk in the darkness. The game emphasizes teamwork, with a blend of tense atmosphere, survival elements, and cooperative problem-solving to escape alive.",
     },
     {
       id: "7",
@@ -65,7 +65,7 @@ export const games = [
       image: "/images/MonsterHunterRise.png",
       vertical_image: "/images/monster-hunter-rise-vertical.jpg",
       price: "$163",
-      description: "Monster Hunter Rise is an action role-playing game developed and published by Capcom.",
+      description: "Monster Hunter Rise is an action RPG where players take on the role of a hunter tasked with slaying or capturing large, powerful monsters in the vibrant, open world of Kamura Village. The game features fast-paced combat, a variety of weapons, and new mobility mechanics like the Wirebug, allowing for dynamic exploration and thrilling battles against towering creatures.",
     },
     {
       id: "8",
@@ -75,7 +75,7 @@ export const games = [
       vertical_image: "/images/gtav-vertical.jpg",
       price: "$158",
       description:
-        "Grand Theft Auto V is a 2013 action-adventure game developed by Rockstar North and published by Rockstar Games.",
+        "Grand Theft Auto V is an open-world action-adventure game set in the sprawling city of Los Santos, where players control three unique characters—Michael, Franklin, and Trevor—who navigate a world of crime, heists, and corruption. The game offers a rich narrative, dynamic missions, and a vast sandbox environment filled with activities, blending story-driven gameplay with chaotic freedom.",
     },
     {
       id: "9",
@@ -84,7 +84,7 @@ export const games = [
       image: "/images/PayDay3.jpg",
       vertical_image: "/images/payday3-vertical.jpg",
       price: "$125",
-      description: "PayDay 3 is an upcoming cooperative first-person shooter video game developed by Overkill Software.",
+      description: "Payday 3 is a cooperative first-person shooter that puts players in the shoes of skilled criminals planning and executing heists across various high-stakes scenarios. Building on its predecessor, the game features enhanced graphics, deeper character customization, and a range of new heist mechanics, encouraging teamwork and strategic planning to achieve lucrative goals while evading law enforcement.",
     },
     {
       id: "10",
@@ -93,7 +93,7 @@ export const games = [
       image: "/images/RDR2.jpg",
       vertical_image: "/images/rdr2-vertical.jpg",
       price: "$249",
-      description: "Red Dead Redemption 2 is a 2018 action-adventure game developed and published by Rockstar Games.",
+      description: "Red Dead Redemption 2 is an open-world action-adventure game set in the late 1800s that follows Arthur Morgan, a member of the Van der Linde gang, as they navigate the challenges of outlaw life while facing law enforcement and rival gangs. With its richly detailed world, immersive storytelling, and deep character development, the game explores themes of loyalty, morality, and the fading of the Wild West.",
     },
   ];
   
