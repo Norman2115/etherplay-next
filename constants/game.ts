@@ -4,7 +4,7 @@ export const games = [
       title: "God of War",
       genre: ["RPG", "Action", "Adventure"],
       image: "/images/GodOfWar.jpg",
-      vertical_image: "/images/GodofWar.jpg",
+      vertical_image: "/images/god-of-war-vertical.jpg",
       price: "$249",
       description:
         "God of War 4 (2018) follows Kratos, now living in a world inspired by Norse mythology, as he embarks on a journey with his son, Atreus, to fulfill his late wife's final wish. The game blends intense combat with a deeply emotional narrative, focusing on their evolving father-son relationship while battling gods and monsters.",

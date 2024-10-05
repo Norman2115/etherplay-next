@@ -15,7 +15,7 @@ export default function Page() {
   const { gameId } = useParams();
   const game = games.find((g) => g.id === gameId);
 
-  const contractAddress = "0x6A4000F2C55A041476510e7f13e913Cb2661C201";
+  const contractAddress = "0x8652bb513B98DcEE7c2C28bC2C292E866528F6c2";
   const { mint } = useContract(contractAddress);
 
   const handlePurchase = async () => {
