@@ -18,8 +18,7 @@ EtherPlay is a decentralized, Steam-like game distribution platform that uses bl
 https://github.com/user-attachments/assets/a8957706-96da-4727-81f5-13b1a8ab13fb
 
 ## Smart Contract
-Our app ERC721 smart contract is deployed at 0x8652bb513B98DcEE7c2C28bC2C292E866528F6c2 and has been verified with the flattened Solidity code.
-Here is the link to Etherscan - [0x8652bb513B98DcEE7c2C28bC2C292E866528F6c2](https://sepolia.etherscan.io/address/0x8652bb513b98dcee7c2c28bc2c292e866528f6c2)
+Our app ERC721 smart contract is deployed at [0x8652bb513B98DcEE7c2C28bC2C292E866528F6c2](https://sepolia.etherscan.io/address/0x8652bb513b98dcee7c2c28bc2c292e866528f6c2) and has been verified with the flattened Solidity code.
 
 ## Getting Started
 ### Clone the Repository
