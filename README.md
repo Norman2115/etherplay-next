@@ -1,4 +1,6 @@
 # EtherPlay
+This repo is a restructured framework for development due to some issues with the previous one, and you can find the old repository here https://github.com/Norman2115/etherplay.
+
 ## Problem Statement
 Many people purchase illegal or modified DLL copies of Steam games online. While this may reduce costs for lots of people, it undermines the game publisher's revenue, disrupts the integrity of digital rights management and limits long-term support for the game.
 
@@ -12,19 +14,14 @@ EtherPlay is a decentralized, Steam-like game distribution platform that uses bl
 
 3. Support for Game Publisher. Etherpay ensures they are compensated for each game sold.
 
-
-
+### Product Demo
 https://github.com/user-attachments/assets/a8957706-96da-4727-81f5-13b1a8ab13fb
 
-
-
 ## Smart Contract
-
-
+Our app ERC721 smart contract is deployed at 0xYourContractAddress and has been verified with the flattened Solidity code.
 
 ## Getting Started
 ### Clone the Repository
-
 To get started with this project, you'll first need to clone the repository to your local machine. Open your terminal and run the following command:
 
 ```bash
