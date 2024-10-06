@@ -12,6 +12,8 @@ EtherPlay is a decentralized, Steam-like game distribution platform that uses bl
 
 3. Support for Game Publisher. Etherpay ensures they are compensated for each game sold.
 
+[Demo video](./assets/videos/EtherPay-DemoVideo.mp4)
+
 ## Smart Contract
 
 
