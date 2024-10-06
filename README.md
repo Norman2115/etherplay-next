@@ -20,7 +20,6 @@ https://github.com/user-attachments/assets/a8957706-96da-4727-81f5-13b1a8ab13fb
 
 ## Smart Contract
 
-/Users/norman/Documents/etherplay/assets/images/etherscan-sc.png
 
 
 ## Getting Started
