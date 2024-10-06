@@ -6,8 +6,10 @@ Many people purchase illegal or modified DLL copies of Steam games online. While
 EtherPlay is a decentralized, Steam-like game distribution platform that uses blockchain technology to issue NFTs for every game purchase. These NFTs serve as proof of ownership. They ensures authenticity and verification of game purchases. With EtherPlay, every purchased game comes with a unique NFT that acts as a digital certificate, allowing users to prove the legitimacy of their game libraries.
 
 ### How EtherPay Solves the Problem
-1. Game Verification: We issue an NFT with each game purchase. EtherPlay verifies ownership through the blockchain. This NFT is non-fungible, meaning it cannot be copied, altered or faked.
+1. Game Verification: We issue an NFT with each game purchase. EtherPlay verifies ownership through the blockchain. This NFT is non-fungible.
+
 2. Protection Against Illegal Copies. Users with legitimate NFTs can access the full, authentic game content, while illegal copies will be unable to bypass the verification.
+
 3. Support for Game Publisher. Etherpay ensures they are compensated for each game sold.
 
 ## Getting Started
